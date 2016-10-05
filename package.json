@@ -1,0 +1,22 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "A URL shortener using Node, Express, MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleystachurski/url-shortener.git"
+  },
+  "author": "Bradley Stachurski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleystachurski/url-shortener/issues"
+  },
+  "homepage": "https://github.com/bradleystachurski/url-shortener#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
